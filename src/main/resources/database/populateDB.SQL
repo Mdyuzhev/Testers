@@ -1,0 +1,1 @@
+INSERT INTO testers VALUES (1, 'Roman', 'Martynov', 'Manual testin', 'Java', 1, 'Moscow');
